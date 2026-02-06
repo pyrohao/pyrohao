@@ -54,16 +54,10 @@
 
 **技术栈**：TypeScript, React, AI/LLM 集成
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pyrohao&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pyrohao&layout=compact&theme=github_dark&hide_border=true)
-
 ## 📫 Contact Me
 
-- 💼 **LinkedIn**: [www.linkedin.com/in/hao-zeng-542466303]
-- 📧 **Email**: [1330189921@qq.com]
+- 💼 [LinkedIn](www.linkedin.com/in/pyrohao)
+- 📧 **Email**: 1330189921@qq.com
 
 ---
 
