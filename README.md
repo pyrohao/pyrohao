@@ -47,12 +47,12 @@
 > 支持自定义工作流的 AI 智能体交互平台
 
 **核心亮点**：
-- 🧩 **可视化工作流编辑**：拖拽式构建 AI 处理流程
+- 🧩 **可视化工作流编辑**：拖拽式构建 AI 处理流程, 支持MCP, Advisor配置
 - 💬 **多轮对话管理**：支持复杂的多步骤 AI 交互
 - 🔒 **本地优先**：对话记录本地存储，支持导出
 - ⚡ **实时响应**：流式输出 AI 思考与执行过程
 
-**技术栈**：TypeScript, React, AI/LLM 集成
+**技术栈**：TypeScript, React, SpringAI, Mysql, Postgres
 
 ## 📫 Contact Me
 
