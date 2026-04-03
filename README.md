@@ -7,7 +7,7 @@
 我是一名即将毕业的软件工程专业学生（2026年6月），辅修金融学。热衷于构建**优雅且实用的产品**，擅长将复杂的技术转化为直观的用户体验。
 
 - 🎓 **教育背景**：软件工程（主修）+ 金融学（辅修）
-- 💼 **求职状态**：积极寻找开发岗位实习机会
+- 💼 **求职状态**：积极寻找后端开发(AI方向)机会
 - 🌏 **所在地**：中国
 
 ## 🛠️ Tech Stack
@@ -19,7 +19,6 @@
 ### 技术领域
 - **后端**：Java, Spring Boot, RESTful API 设计
 - **前端**：TypeScript, React, Vue, 现代前端工程化
-- **AI 集成**：LLM API 集成，多厂商 AI 服务对接
 - **其他**：Node.js, 数据库设计
 
 ### 正在学习
@@ -57,7 +56,7 @@
 ## 📫 Contact Me
 
 - 💼 [LinkedIn](www.linkedin.com/in/pyrohao)
-- 📧 **Email**: 1330189921@qq.com
+- 📧 **Email**: pyrohao@outlook.com
 
 ---
 
