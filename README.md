@@ -33,7 +33,7 @@ I am a recent Software Engineering graduate with a minor in Finance. Passionate 
 - 🎯 **Dual-Mode Editing**: Visual node graph editing ↔ Real-time Markdown source preview
 - 🤖 **AI Document Generation**: Integrated with multiple AI providers (OpenAI, Volcengine, SiliconFlow)
 - 🔄 **Real-Time Sync**: Instant reflection of changes across all views
-- 📦 **Smart Node Operations**: Drag-and-drop reorganization, batch node creation, and seamless link management
+- 📦 **Git Integration**: Seamless Git integration for diff viewing, staged changes and commit operations
 
 **Tech Stack**: TypeScript, React, Node.js, AI API Integration
 
